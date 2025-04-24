@@ -1,4 +1,4 @@
-# NativeConcepts for corses
+# Native Concepts
 
 - Lexical Scope
 - Closure
