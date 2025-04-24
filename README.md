@@ -1,4 +1,4 @@
-# NativeConcepts for corses Patterns, Async, Node.js Prerequisites
+# NativeConcepts for corses
 
 - Lexical Scope
 - Closure
