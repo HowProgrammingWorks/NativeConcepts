@@ -2,7 +2,7 @@
 
 // Decompose and use class composition
 
-const { EventEmitter } = require('events');
+const { EventEmitter } = require('node:events');
 
 class Accumulator {
   #value = 0;
